@@ -7,7 +7,7 @@
 
 > Un modelo de Machine Learning que estima la probabilidad de que un cliente **incumpla su próximo pago** y explica **por qué**, con una app web interactiva.
 
-🔗 **Demo en vivo:** _(pega aquí tu URL de Streamlit una vez desplegada)_
+🔗 **Demo en vivo:** (https://skyscore.streamlit.app/)
 
 ---
 
