@@ -55,13 +55,6 @@ python code/explain.py
 streamlit run app.py
 ```
 
-## ☁️ Desplegar gratis
-
-1. Sube este repo a GitHub.
-2. Entra a [share.streamlit.io](https://share.streamlit.io), conecta tu cuenta de GitHub.
-3. Elige el repo, archivo principal `app.py`, y *Deploy*.
-4. Copia la URL pública resultante y pégala arriba en "Demo en vivo".
-
 ## 📁 Estructura
 
 ```
