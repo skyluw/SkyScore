@@ -1,4 +1,4 @@
-# 🐆 SkyScore — Predictor de riesgo crediticio explicable
+# SkyScore — Predictor de riesgo crediticio explicable
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-F7931E?logo=scikit-learn&logoColor=white)
